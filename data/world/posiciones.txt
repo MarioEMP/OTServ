@@ -1,0 +1,16 @@
+Thais - 
+
+portal tierra 1 - {x = 32975, y = 32226, z = 7}
+portal tierra 2 - {x = 33541, y = 32207, z = 7}
+
+portal hielo 1 - {x = 32195, y = 31417, z = 2}
+portal hielo 2 - {x = 33431, y = 32276, z = 7}
+
+portal elec 1 - {x = 33062, y = 32712, z = 5}
+portal elec 2 - {x = 33528, y = 32300, z = 4}
+
+portal fuego 1 - {x = 32909, y = 32339, z = 15}
+portal fuego 2 - {x = 33586, y = 32262, z = 7}
+
+barco pirratas 1 = {x = 32942, y = 32030, z = 7}
+barco pirratas 2 = {x = 33775, y = 31348, z = 7}
